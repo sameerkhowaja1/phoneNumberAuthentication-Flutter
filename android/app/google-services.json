@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "15325489285",
+    "project_id": "phonenumberauthenticatio-ada7b",
+    "storage_bucket": "phonenumberauthenticatio-ada7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15325489285:android:37109fc97a8e81485121ec",
+        "android_client_info": {
+          "package_name": "com.example.phone_number_authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15325489285-vc9lbpj7rn7b274lengi4gp2dbu7o1oc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmD6rF43J1P-8xSWxvY6wcDTCwQBAJbPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15325489285-vc9lbpj7rn7b274lengi4gp2dbu7o1oc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
